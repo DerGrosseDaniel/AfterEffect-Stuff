@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#copy settings back in original folder
+
+cp Adobe\ After\ Effects\ 13.5\ Mac\ en_US\ Shortcuts.txt /Users/daniel/Library/Preferences/Adobe/After\ Effects/13.5/Adobe\ After\ Effects\ 13.5\ Mac\ en_US\ Shortcuts.txt 
